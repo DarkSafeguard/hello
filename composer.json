@@ -1,0 +1,14 @@
+{
+  "name": "apercival/328/hello",
+  "description": "My first MVC F3 Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Adam Percival",
+      "email": "Percival.Adam@student.greenriver.edu.com"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
